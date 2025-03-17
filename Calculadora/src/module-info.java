@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Calculadora {
+module POO {
 }
