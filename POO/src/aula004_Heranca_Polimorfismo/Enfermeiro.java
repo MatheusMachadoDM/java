@@ -1,4 +1,4 @@
-package aula004;
+package aula004_Heranca_Polimorfismo;
 
 public class Enfermeiro extends Pessoa{
 	

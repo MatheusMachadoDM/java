@@ -4,5 +4,5 @@
 /**
  * 
  */
-module POO {
+module PackagesImports {
 }

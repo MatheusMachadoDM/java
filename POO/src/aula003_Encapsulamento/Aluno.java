@@ -1,4 +1,4 @@
-package aula003_encapsulamento;
+package aula003_Encapsulamento;
 
 public class Aluno {
 	
