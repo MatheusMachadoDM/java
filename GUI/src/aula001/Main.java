@@ -30,7 +30,7 @@ public class Main {
 				
 		// --- Botao ---
 		JButton botaoLogar = new JButton("Logar"); //Criando o objeto botão
-		botaoLogar.setBounds(50, 225, 190, 30);//Definincdo posição inicial, comprimento e largura
+		botaoLogar.setBounds(50, 225, 190, 30);//Definindo posição inicial, comprimento e largura
 		
 			//Adicionando evento
 		botaoLogar.addActionListener(new ActionListener() {
